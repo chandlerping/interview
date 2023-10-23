@@ -7,3 +7,10 @@
 解决方案：
   * 客户端：HTTP头connection设置为keep-alive（长连接，通常由客户端关闭连接），避免短时间内大量出现TIME_WAIT。
   * 服务端：多个socket复用端口/连接；缩短TIME_WAIT时间为1MSL。
+
+
+## LC
+### 双指针
+611: https://leetcode.com/problems/valid-triangle-number/
+
+15: https://leetcode.com/problems/3sum/
