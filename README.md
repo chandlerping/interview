@@ -24,7 +24,7 @@ __pre__: 开启慢查询日志```slow_query_log```
 
 ## 计算机网络
 ### 1-TIME_WAIT状态过多？
-原因：大量并发短连接（HTTP connection头部被设为close），由【服务端】主动发起关闭连接；因此服务端大量端口会被占据，2MSL=4min。会占用大量TCP端口（共65535个）。
+原因：大量并发短连接（HTTP connection头部被设为close），由__服务端__主动发起关闭连接；因此服务端大量端口会被占据，2MSL=4min。会占用大量TCP端口（共65535个）。
 
 解决方案：
   * 客户端：HTTP头connection设置为keep-alive（长连接，通常由客户端关闭连接），避免短时间内大量出现TIME_WAIT。
