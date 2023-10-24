@@ -16,3 +16,9 @@
 15: https://leetcode.com/problems/3sum/
 #### 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
+#### 01背包
+416：https://leetcode.com/problems/partition-equal-subset-sum/
+
+518：https://leetcode.com/problems/coin-change-ii/
+
+474：https://leetcode.com/problems/ones-and-zeroes/
