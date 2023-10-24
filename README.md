@@ -10,9 +10,9 @@
 
 
 ## LC
-### 双指针
+#### 双指针
 611: https://leetcode.com/problems/valid-triangle-number/
 
 15: https://leetcode.com/problems/3sum/
-### 哈希
+#### 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
