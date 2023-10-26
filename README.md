@@ -42,7 +42,7 @@ __pre__: 开启慢查询日志```slow_query_log```
 
 
 ### 优先队列
-295：https://leetcode.com/problems/find-median-from-data-stream/ （两个优先队列保存中位数）
+295：https://leetcode.com/problems/find-median-from-data-stream/ （两个堆保存中位数）
 
 480：https://leetcode.com/problems/sliding-window-median/ （同上）
 
@@ -57,3 +57,9 @@ __pre__: 开启慢查询日志```slow_query_log```
 446：https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 
 403：https://leetcode.com/problems/frog-jump/
+
+### DP + 二分
+300：https://leetcode.com/problems/longest-increasing-subsequence/
+
+354：https://leetcode.com/problems/russian-doll-envelopes/
+
