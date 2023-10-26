@@ -40,14 +40,20 @@ __pre__: 开启慢查询日志```slow_query_log```
 ### 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
-### 01背包
+
+### 优先队列
+295：https://leetcode.com/problems/find-median-from-data-stream/ （两个优先队列保存中位数）
+
+480：https://leetcode.com/problems/sliding-window-median/ （同上）
+
+### 01背包DP
 416：https://leetcode.com/problems/partition-equal-subset-sum/
 
 518：https://leetcode.com/problems/coin-change-ii/
 
 474：https://leetcode.com/problems/ones-and-zeroes/
 
-### 优先队列
-295：https://leetcode.com/problems/find-median-from-data-stream/ （两个优先队列保存中位数）
+### 序列DP
+446：https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 
-480：https://leetcode.com/problems/sliding-window-median/ （同上）
+403：https://leetcode.com/problems/frog-jump/
