@@ -26,3 +26,6 @@
 
 ## DP + 二分
 300：https://leetcode.com/problems/longest-increasing-subsequence/
+
+## Others
+约瑟夫环：https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solutions/607638/jian-zhi-offer-62-yuan-quan-zhong-zui-ho-dcow/
