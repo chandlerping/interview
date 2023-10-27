@@ -63,3 +63,6 @@ __pre__: 开启慢查询日志```slow_query_log```
 
 354：https://leetcode.com/problems/russian-doll-envelopes/
 
+### Others
+约瑟夫环：https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solutions/607638/jian-zhi-offer-62-yuan-quan-zhong-zui-ho-dcow/
+
