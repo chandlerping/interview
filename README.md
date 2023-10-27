@@ -31,6 +31,11 @@ __pre__: 开启慢查询日志```slow_query_log```
   * 服务端：多个socket复用端口/连接；缩短TIME_WAIT时间为1MSL。
 
 
+## 设计模式
+https://juejin.cn/post/6844904125721772039
+* 单例模式 static volatile 双检锁
+
+
 ## LC
 ### 双指针
 611: https://leetcode.com/problems/valid-triangle-number/
