@@ -10,4 +10,6 @@
 __pre__: 开启慢查询日志```slow_query_log```
 
 ### 3-COMPACT行格式？
-| 额外信息：变长字段长度列表；NULL值列表；头信息 | row id，tx id，row ptr；真实数据 |
+| 额外信息：变长字段长度列表；NULL值列表；头信息 | row id，tx id，row ptr（MVCC）；真实数据 |
+
+一行最大65535字节，溢出后放在溢出页。
