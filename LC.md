@@ -27,5 +27,12 @@
 ## DP + 二分
 300：https://leetcode.com/problems/longest-increasing-subsequence/
 
+354：https://leetcode.com/problems/russian-doll-envelopes/
+
+## 字符串DP
+115：https://leetcode.com/problems/distinct-subsequences/
+
+940：https://leetcode.com/problems/distinct-subsequences-ii/
+
 ## Others
 约瑟夫环：https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solutions/607638/jian-zhi-offer-62-yuan-quan-zhong-zui-ho-dcow/
