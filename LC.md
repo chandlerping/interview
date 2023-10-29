@@ -4,6 +4,11 @@
 
 15: https://leetcode.com/problems/3sum/
 
+## 贪心
+646：https://leetcode.com/problems/maximum-length-of-pair-chain/
+
+871：https://leetcode.com/problems/minimum-number-of-refueling-stops/
+
 ## 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
