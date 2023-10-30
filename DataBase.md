@@ -97,6 +97,5 @@ __pre__: 开启慢查询日志```slow_query_log```
 1. 主库写入binlog
 2. IO 从库从主库上拉取binlog，放入自己的relay log
 3. 从库回放执行relay log
-数据丢失解决方案：从库在写完relay log后返回ack给主库
 
-延迟问题：从库开启多个线程并行复制
+数据丢失问题：从库在写完relay log后返回ack给主库；延迟问题：从库开启多个线程并行复制
