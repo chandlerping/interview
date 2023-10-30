@@ -12,6 +12,10 @@
 ## 单调栈
 768：https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 
+84：https://leetcode.com/problems/largest-rectangle-in-histogram/
+
+2104：https://leetcode.com/problems/sum-of-subarray-ranges/
+
 ## 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
