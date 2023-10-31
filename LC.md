@@ -9,6 +9,11 @@
 
 871：https://leetcode.com/problems/minimum-number-of-refueling-stops/
 
+## 二分
+540：https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+668：https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+
 ## 单调栈
 768：https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 
