@@ -21,6 +21,9 @@
 
 2104：https://leetcode.com/problems/sum-of-subarray-ranges/
 
+## 回溯
+301：https://leetcode.com/problems/remove-invalid-parentheses/
+
 ## 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
