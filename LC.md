@@ -27,6 +27,11 @@
 ## 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
+## 滑动窗口
+1838：https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+
+992：https://leetcode.com/problems/subarrays-with-k-different-integers/
+
 ## 优先队列
 295：https://leetcode.com/problems/find-median-from-data-stream/ （两个堆保存中位数）
 
