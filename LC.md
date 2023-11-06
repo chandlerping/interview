@@ -29,6 +29,8 @@
 ## 哈希
 1224：https://leetcode.com/problems/maximum-equal-frequency/
 
+1044：https://leetcode.com/problems/longest-duplicate-substring/ （字符串哈希）
+
 ## 滑动窗口
 1838：https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 
