@@ -36,6 +36,8 @@
 
 992：https://leetcode.com/problems/subarrays-with-k-different-integers/
 
+76：https://leetcode.com/problems/minimum-window-substring
+
 ## 优先队列
 295：https://leetcode.com/problems/find-median-from-data-stream/ （两个堆保存中位数）
 
