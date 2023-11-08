@@ -9,6 +9,8 @@
 
 871：https://leetcode.com/problems/minimum-number-of-refueling-stops/
 
+421：https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
 ### 贪心 + 二分 最长递增子序列问题
 
 1713：https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
