@@ -9,6 +9,14 @@
 
 871：https://leetcode.com/problems/minimum-number-of-refueling-stops/
 
+### 贪心 + 二分 最长递增子序列问题
+
+1713：https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
+
+300：https://leetcode.com/problems/longest-increasing-subsequence/
+
+354：https://leetcode.com/problems/russian-doll-envelopes/
+
 ## 二分
 540：https://leetcode.com/problems/single-element-in-a-sorted-array/
 
@@ -56,11 +64,6 @@
 403：https://leetcode.com/problems/frog-jump/
 
 188：https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
-
-## DP + 二分
-300：https://leetcode.com/problems/longest-increasing-subsequence/
-
-354：https://leetcode.com/problems/russian-doll-envelopes/
 
 ## 字符串DP
 115：https://leetcode.com/problems/distinct-subsequences/
