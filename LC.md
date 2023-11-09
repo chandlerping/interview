@@ -34,6 +34,8 @@
 907：https://leetcode.com/problems/sum-of-subarray-minimums/
 
 ## 回溯
+698：https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+
 301：https://leetcode.com/problems/remove-invalid-parentheses/
 
 ## 哈希
