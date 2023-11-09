@@ -24,6 +24,8 @@
 
 668：https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 
+878：https://leetcode.com/problems/nth-magical-number/
+
 ## 单调栈
 768：https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 
