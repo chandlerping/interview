@@ -74,6 +74,8 @@
 ## 区间dp
 664：https://leetcode.com/problems/strange-printer/
 
+730：https://leetcode.com/problems/count-different-palindromic-subsequences/
+
 ## 字符串DP
 115：https://leetcode.com/problems/distinct-subsequences/
 
