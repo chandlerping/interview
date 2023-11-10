@@ -71,6 +71,9 @@
 
 188：https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 
+## 区间dp
+664：https://leetcode.com/problems/strange-printer/
+
 ## 字符串DP
 115：https://leetcode.com/problems/distinct-subsequences/
 
